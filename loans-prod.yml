@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to myBank Loans API (Prod Version)"
+  message: "Welcome to myBank Loans API (Production Version):REFERSHED"
   contactDetails:
     name: "The Loans Prod Guy"
     email: "prod-loans@sma.im"
