@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to myBank Cards API (QA version)"
+  contactDetails:
+    name: "The Cards QA Guy"
+    email: "qa-cards@sma.im"
+  onCallSupport:
+    - (123) 224-2371
+    - (123) 224-2372

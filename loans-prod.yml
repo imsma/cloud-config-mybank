@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to myBank Loans API (Prod Version)"
+  contactDetails:
+    name: "The Loans Prod Guy"
+    email: "prod-loans@sma.im"
+  onCallSupport:
+    - (123) 224-2361
+    - (123) 224-2362

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to myBank Loans API (QA Version)"
+  contactDetails:
+    name: "The Loans QA Gyt"
+    email: "qa-loans@sma.im"
+  onCallSupport:
+    - (123) 224-2361
+    - (123) 224-2362

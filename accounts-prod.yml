@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to myBank Accounts API (Prod version)"
+  contactDetails:
+    name: "The Accounts Prod Guy"
+    email: "prod-accounts@sma.im"
+  onCallSupport:
+    - (123) 224-2351
+    - (123) 224-2352

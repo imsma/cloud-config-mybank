@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to myBank Accounts API (QA version)"
+  contactDetails:
+    name: "The Accounts QA Guy"
+    email: "qa-accounts@sma.im"
+  onCallSupport:
+    - (123) 224-2341
+    - (123) 224-2342

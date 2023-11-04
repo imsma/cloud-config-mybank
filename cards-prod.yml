@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to myBank Cards API (Prod version)"
+  contactDetails:
+    name: "The Cards Prod Guy"
+    email: "prod-cards@sma.im"
+  onCallSupport:
+    - (123) 224-2381
+    - (123) 224-2382

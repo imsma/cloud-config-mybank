@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to myBank Accounts API"
+  contactDetails:
+    name: "Im SMA - Accounts"
+    email: "hello-accounts@sma.im"
+  onCallSupport:
+    - (123) 224-2321
+    - (123) 224-2322

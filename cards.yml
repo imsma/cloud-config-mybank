@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to myBank Cards API"
+  contactDetails:
+    name: "Im SMA"
+    email: "hello-cards@sma.im"
+  onCallSupport:
+    - (123) 224-2361
+    - (123) 224-2362
