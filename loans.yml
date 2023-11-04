@@ -2,7 +2,7 @@ build:
   version: "1.999"
 
 loans:
-  message: "After Container config>>>Welcome to myBank Loans API"
+  message: "<<OPEN>> Welcome to myBank Loans API"
   contactDetails:
     name: "Im SMA - Loans"
     email: "hello-loans@sma.im"
