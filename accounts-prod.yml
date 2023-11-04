@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to myBank Accounts API (Prod version)"
+  message: "<<FROM GIT:: SMA>>>Welcome to myBank Accounts API (Prod version)"
   contactDetails:
     name: "The Accounts Prod Guy"
     email: "prod-accounts@sma.im"
