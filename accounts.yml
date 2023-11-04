@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to myBank Accounts API"
+  message: "Welcome to myBank Accounts API:: Hello from Git>>"
   contactDetails:
     name: "Im SMA - Accounts"
     email: "hello-accounts@sma.im"
