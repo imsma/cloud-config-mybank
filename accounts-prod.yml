@@ -1,5 +1,5 @@
 build:
-  version: "3.0"
+  version: "13.0"
 
 accounts:
   message: "<<FROM GIT:: SMA>>> Welcome to myBank Accounts API (Prod version)::: REFRESHED"
