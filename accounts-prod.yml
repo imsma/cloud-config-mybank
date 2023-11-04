@@ -2,7 +2,7 @@ build:
   version: "513.0"
 
 accounts:
-  message: "<Even with webhook>Welcome to myBank Accounts API (Prod version)"
+  message: "<hopk + docker compose copy prod>Welcome to myBank Accounts API (Prod version)"
   contactDetails:
     name: "The Accounts Prod Guy"
     email: "{cipher}28a21f57075ac215ae8eb1b18db87bbc984f49b0825656eb71e2ca38df8ae82e18a14e6acade7112f876b9d2e568ee20"
