@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "1.00009"
 
 loans:
   message: "Welcome to myBank Loans API"
